@@ -4,7 +4,7 @@
 I have 2 years of experience developing customer-facing applications, My technical expertise includes Javascript technology such as React, Node, Express, and other front-end frameworks with HTML and CSS. I also have an extensive backend and DevOps experience in microservices development. scaling and deployment with AWS.
 
 *   🌍  I'm based in Dallas, TX
-*   👉🏻  Connect with me on LinkedIn: [https://www.linkedin.com/in/shiweicc/](mailto:https://www.linkedin.com/in/shiweicc/)
+*   👉🏻  Connect with me on LinkedIn: https://www.linkedin.com/in/shiweicc/
 *   📫  How to reach me: shiweichenus@gmail.com
 *   🍿  I'm currently working on [Getflix](https://github.com/shiweicc/Getflix)
 
