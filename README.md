@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shiwei Chen
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Shiwei 
 ===============================================================================================================================
 
 Software Engineer
@@ -8,6 +8,7 @@ I am a passionate software engineer and problem-solver. I have 2 years of experi
 
 *   🌍  I'm based in Dallas, TX
 *   ✉️  You can contact me at [https://www.linkedin.com/in/shiweicc/](mailto:https://www.linkedin.com/in/shiweicc/)
+*   📫  How to reach me: shiweichenus@gmail.com
 *   🚀  I'm currently working on [Getflix](https://github.com/shiweicc/Getflix)
 
 <p align="left">
