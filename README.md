@@ -32,6 +32,5 @@ I have 2 years of experience developing customer-facing applications, My technic
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shiweicc&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/shiweicc/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shiweicc&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/shiweicc/github-readme-stats#gh-light-mode-only)
-  
-  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shiweicc&theme=github-light)](https://github.com/shiweicc/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shiweicc&bg_color=151515&color=79fe96&line=79fe96&point=f6efef&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
