@@ -29,4 +29,4 @@ I have 2 years of experience developing customer-facing applications, My technic
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> 
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a>
 
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shiweicc&theme=github-light)](https://github.com/shiweicc/github-readme-activity-graph)
