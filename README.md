@@ -30,7 +30,5 @@ I have 2 years of experience developing customer-facing applications, My technic
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> 
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a>
 
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shiweicc&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/shiweicc/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shiweicc&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/shiweicc/github-readme-stats#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shiweicc)](https://git.io/streak-stats)
 
