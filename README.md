@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiwei</h1>
 <h2 align="center">A passionate software engineer</h2>
 
-I have 2 years of experience developing customer-facing applications, My technical expertise includes Javascript technology such as React, Node, Express, and other front-end frameworks with HTML and CSS. I also have an extensive backend and DevOps experience in microservices development. scaling and deployment with AWS.
+I have 2 years of experience developing customer-facing applications. My technical expertise includes Javascript technology such as React, Node, Express, and other front-end frameworks with HTML and CSS. I also have an extensive backend and DevOps experience in microservices development, scaling and deployment with AWS.
 
 *   🌍  I'm based in Dallas, TX
 *   👉🏻  How to contact me: https://www.linkedin.com/in/shiweicc/
