@@ -30,5 +30,5 @@ I have 2 years of experience developing customer-facing applications. My technic
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> 
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=shiweicc&theme=ayu-mirage&date_format=M%20j%5B%2C%20Y%5D&background=FFEFEF10)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=shiweicc&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=FFEFEF10)](https://git.io/streak-stats)
   
