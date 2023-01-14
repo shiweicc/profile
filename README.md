@@ -29,7 +29,5 @@ I have 2 years of experience developing customer-facing applications. My technic
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> 
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/></a>
-
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=shiweicc&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=FFEFEF10&ring=FFE828&fire=FFE828&sideNums=FFE828&sideLabels=FFE828&dates=54F018&currStreakNum=FF4126&currStreakLabel=54F018)](https://git.io/streak-stats)
-  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=shiweicc&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=FFEFEF10&ring=FFE828&fire=FFE828&sideNums=FFE828&sideLabels=FFE828&dates=54F018&currStreakNum=FF4126&currStreakLabel=FF4126)](https://git.io/streak-stats)
