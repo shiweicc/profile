@@ -5,7 +5,6 @@ I have 2 years of experience developing customer-facing applications. My technic
 
 *   🌍  I'm based in Dallas, TX
 *   👉🏻  How to contact me: https://www.linkedin.com/in/shiweicc/
-*   🍿  I'm currently working on [Getflix](https://github.com/shiweicc/Getflix)
 *   😄  Pronouns: she/her/hers
 
 
